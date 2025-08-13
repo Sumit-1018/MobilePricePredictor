@@ -66,28 +66,10 @@ python app.py
 
 ## Screenshots
 
-![Smartphone Price Predictor Interface](https://github.com/Mirellawanessa/Mobile-Price-Predictor/blob/main/screenshot.png)
+![Smartphone Price Predictor Interface](https://github.com/Sumit-1018/MobilePricePredictor/blob/main/screenshot.png)
 *Smartphone Price Predictor Web Interface*
 
-## 👩‍💻 Developer
 
-<p>
-  <img 
-    align="left" 
-    width="80" 
-    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
-  />
-  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
-  <a href="https://www.instagram.com/myfilearchive">Instagram</a>
-  &nbsp;|&nbsp;</p>
-</p>
-
----
-
-⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
 
 
 
